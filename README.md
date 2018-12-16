@@ -1,4 +1,4 @@
-Bro IDS & ELK 6.5.3 Integration using Docker Compose
+Bro-IDS & ELK 6.5.3 Integration using Docker Compose
 -----
 
 Integration of [Bro](https://www.bro.org/) Network Security Monitor and [ELK](https://www.elastic.co/elk-stack) stack (i.e., Elasticsearch-Logstash-Kibana) using Docker Compose.
