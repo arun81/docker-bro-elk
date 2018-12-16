@@ -30,7 +30,7 @@ or in detached mode:
 docker-compose up -d
 ```
 
-After running the services, you can access Kibana interface at `http://localhost:5601` and create new index pattern with prefix `logstash-*` to start exploring network data captured by Bro.
+After running the services, you can access Kibana interface at `http://localhost:5601` and create new index pattern with prefix `logstash-*` to start exploring network data captured by Zeek(Bro).
 
 
 To stop `docker-bro-elk`, simply press `Ctrl+C` if running in foreground mode, or run the following command if running in detached mode:
