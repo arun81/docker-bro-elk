@@ -3,7 +3,7 @@ version: '2'
 services:
 
   bro:
-    image: blacktop/bro
+    image: blacktop/zeek
     command: -i eth0
     volumes:
       - ./bro:/pcap:rw
